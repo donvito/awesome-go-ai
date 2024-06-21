@@ -2,7 +2,7 @@
 A collection of tools and libraries for developing Go with AI integration.
 
 ## API SDKs
-- [Go OpenAI](https://github.com/sashabaranov/go-openai) This library provides unofficial Go clients.
+- [Go OpenAI](https://github.com/sashabaranov/go-openai) This library provides unofficial Go clients for OpenAI APIs.
 - [Go Anthropic](https://github.com/liushuangls/go-anthropic) Anthropic Claude API wrapper for Go (Unofficial)
 - [Go SDK for Google Generative AI](https://github.com/google/generative-ai-go) This SDK enables developers to use Google's state-of-the-art generative AI models (like Gemini) to build AI-powered features and applications.
 - [LangChain Go](https://github.com/tmc/langchaingo) This is the Go language implementation of LangChain.
